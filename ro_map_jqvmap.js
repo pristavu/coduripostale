@@ -1,6 +1,6 @@
 /*
   +---------------------------------------------------------------------------------+
-  | Copyright (c) 2013  pristavu                                           			|
+   Copyright (c) 2013  pristavu                                           	
   +---------------------------------------------------------------------------------+
   | Redistribution and use in source and binary forms, with or without              |
   | modification, are permitted provided that the following conditions are met:     |
@@ -15,7 +15,7 @@
   |    must display the following acknowledgement:                                  |
   |    This product includes software developed by ANDREI PRISTAVU.                 |
   |                                                                                 |
-  | 4. Neither the name of the ANDREI PRISTAVU nor the                               |
+  | 4. Neither the name of the ANDREI PRISTAVU nor the                              |
   |    names of its contributors may be used to endorse or promote products         |
   |    derived from this software without specific prior written permission.        |
   |                                                                                 |
@@ -30,7 +30,7 @@
   | (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS   |
   | SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE                     |
   +---------------------------------------------------------------------------------+
-  | Authors: ANDREI PRISTAVU (andrew (at) andrew.ro            						|
+    Authors: ANDREI PRISTAVU (andrew (at) andrew.ro            					
   +---------------------------------------------------------------------------------+
 */
 jQuery.fn.vectorMap('addMap', 'ro_map', {
