@@ -30,7 +30,7 @@
   | (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS   |
   | SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE                     |
   +---------------------------------------------------------------------------------+
-    Authors: ANDREI PRISTAVU (andrew (at) andrew.ro            					
+    Authors: ANDREI PRISTAVU andrew (at) andrew.ro            					
   +---------------------------------------------------------------------------------+
 */
 jQuery.fn.vectorMap('addMap', 'ro_map', {
